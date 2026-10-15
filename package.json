@@ -1,0 +1,7 @@
+{
+  "name": "ecotrace",
+  "version": "1.0.0",
+  "description": "Offline-first community climate resilience for SA - FNB Hackathon 2026",
+  "main": "app.js",
+  "author": "Fezeka Anita Dube"
+}
